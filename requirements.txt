@@ -1,6 +1,6 @@
-accelerate
-peft
-bitsandbytes
+datasets
 transformers
-trl
-locale
+peft
+evaluate
+torch
+numpy
